@@ -4,4 +4,4 @@ Advanced AntiCheat Solutions for Nukkit
 QQ Channel: **neoanticheat01**
 
 ## Website/Documentation
-https://asterism.lol
+https://anticheat.solutions
